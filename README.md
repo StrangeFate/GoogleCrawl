@@ -1,6 +1,6 @@
 # GoogleCrawl
 
-https://strangefate.github.io/2021/05/24/Insta-Crawl/
+https://strangefate.github.io/2021/08/15/Google-Crawl/
 
 Google Search Crawler(up to 10 pages)
 
